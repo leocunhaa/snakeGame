@@ -129,8 +129,3 @@ Projeto desenvolvido em Python com Pygame utilizando a IA DeepSeek.
 - Guilherme Leonardo Alves
 
 ---
-
-## Licença
-
-Adicione aqui a licença do projeto (por exemplo, MIT) ou remova esta seção se não for aplicável.
-
