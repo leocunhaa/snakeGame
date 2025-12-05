@@ -129,3 +129,5 @@ Projeto desenvolvido em Python com Pygame utilizando a IA DeepSeek.
 - Guilherme Leonardo Alves
 
 ---
+
+> Repositório: [(https://github.com/leocunhaa/snakeGame)]
